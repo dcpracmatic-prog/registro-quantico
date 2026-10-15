@@ -1,0 +1,18 @@
+CENTINELA PROTOCOL — RESULTS SUMMARY
+==================================================
+Mode: cpu
+Verdict: CPU_OK — assisted path favorable; baseline compared; hardware optional
+Cumulative time: 0.016s / 30s
+Favorable B: True (meets approx and best_cut thresholds)
+Baseline skipped: False
+
+Arm B (assisted):
+  approx=0.6934  E[cut]=4.1602
+  best=8  layout=[0, 1, 3, 5, 8, 10]  DD=True
+
+Arm A (baseline):
+  approx=0.7020  E[cut]=4.2119
+  best=8  layout=[0, 1, 2, 3, 4, 5]
+
+Governance role: irrelevant
+HAS_QISKIT: False

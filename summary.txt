@@ -1,0 +1,6 @@
+VEREDICTO: EQG_MEJORA_QAOA
+AR(B)-AR(A)=+0.0224 +- 0.0040 (z=5.7): EQG da mejor resultado QAOA
+Estabilidad temporal del AR durante la corrida: B=ESTABLE (+0.0036)  A=ESTABLE (-0.0013)
+Atribucion (snapshots simultaneos): layout MORPH vs ingenuo medio +0.033 (significativo); DD on-off medio +0.061 (significativo)
+Pulsos DD insertados en circuitos QAOA (B): 56
+Deriva significativa negativa entre snapshots: ['B PRE->MID', 'B+DD PRE->MID', 'B PRE->POST']
