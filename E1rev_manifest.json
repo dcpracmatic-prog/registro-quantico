@@ -1,0 +1,11 @@
+{
+  "experiment": "E1_rev_ingenieria_inversa",
+  "purpose": "Senal de camino (mejora metrica vs baseline), no validacion ontologica",
+  "mode": "hardware",
+  "delta_min": 0.02,
+  "lambda_ley": 0.28,
+  "n_support": 2,
+  "shots": 4096,
+  "seed": 20261023,
+  "backend": "ibm_kingston"
+}

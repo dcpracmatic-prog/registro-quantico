@@ -1,0 +1,658 @@
+{
+  "trials": [
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        13,
+        3
+      ],
+      "support_tame": [
+        13,
+        3
+      ],
+      "s_baseline": 0.5148329870112294,
+      "s_ley": 0.9215486482063895,
+      "s_tame": 0.9215486482063895,
+      "V_baseline": 0.57109375,
+      "V_ley": 0.63212890625,
+      "V_tame": 0.62724609375,
+      "delta_ley": 0.06103515625,
+      "delta_tame": 0.05615234375,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261023,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        4,
+        14
+      ],
+      "support_tame": [
+        4,
+        14
+      ],
+      "s_baseline": 0.8630758610747689,
+      "s_ley": 0.8799519833681505,
+      "s_tame": 0.8799519833681505,
+      "V_baseline": 0.62177734375,
+      "V_ley": 0.619140625,
+      "V_tame": 0.6275390625,
+      "delta_ley": -0.0026367187500000444,
+      "delta_tame": 0.005761718749999978,
+      "CAMINO_OK_ley": false,
+      "CAMINO_OK_tame": false,
+      "seed": 20261024,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        10,
+        3
+      ],
+      "support_tame": [
+        10,
+        3
+      ],
+      "s_baseline": 0.07881415247191181,
+      "s_ley": 0.8986361805028792,
+      "s_tame": 0.8986361805028792,
+      "V_baseline": 0.51318359375,
+      "V_ley": 0.63310546875,
+      "V_tame": 0.62919921875,
+      "delta_ley": 0.11992187499999996,
+      "delta_tame": 0.11601562499999996,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261025,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        10,
+        4
+      ],
+      "support_tame": [
+        10,
+        4
+      ],
+      "s_baseline": 0.45679096987316525,
+      "s_ley": 0.9359338105507082,
+      "s_tame": 0.9359338105507082,
+      "V_baseline": 0.5724609375,
+      "V_ley": 0.62490234375,
+      "V_tame": 0.62421875,
+      "delta_ley": 0.05244140624999993,
+      "delta_tame": 0.0517578125,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261026,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        7,
+        10
+      ],
+      "support_tame": [
+        7,
+        10
+      ],
+      "s_baseline": 0.42369662077190173,
+      "s_ley": 0.8863873309595975,
+      "s_tame": 0.8863873309595975,
+      "V_baseline": 0.55537109375,
+      "V_ley": 0.62841796875,
+      "V_tame": 0.61953125,
+      "delta_ley": 0.07304687499999996,
+      "delta_tame": 0.06416015624999993,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261027,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        3,
+        1
+      ],
+      "support_tame": [
+        3,
+        1
+      ],
+      "s_baseline": 0.4810339920767235,
+      "s_ley": 0.9255159565347291,
+      "s_tame": 0.9255159565347291,
+      "V_baseline": 0.55810546875,
+      "V_ley": 0.62783203125,
+      "V_tame": 0.6345703125,
+      "delta_ley": 0.06972656249999998,
+      "delta_tame": 0.07646484374999996,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261028,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        8,
+        14
+      ],
+      "support_tame": [
+        8,
+        14
+      ],
+      "s_baseline": 0.3493031721954447,
+      "s_ley": 0.8786415752916235,
+      "s_tame": 0.8786415752916235,
+      "V_baseline": 0.5498046875,
+      "V_ley": 0.61708984375,
+      "V_tame": 0.61748046875,
+      "delta_ley": 0.06728515624999998,
+      "delta_tame": 0.06767578124999996,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261029,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        11,
+        6
+      ],
+      "support_tame": [
+        11,
+        6
+      ],
+      "s_baseline": 0.8246536124736248,
+      "s_ley": 0.9427122397306416,
+      "s_tame": 0.9427122397306416,
+      "V_baseline": 0.60966796875,
+      "V_ley": 0.640234375,
+      "V_tame": 0.6341796875,
+      "delta_ley": 0.030566406250000067,
+      "delta_tame": 0.024511718750000022,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261030,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        2,
+        12
+      ],
+      "support_tame": [
+        2,
+        12
+      ],
+      "s_baseline": 0.43415327889707683,
+      "s_ley": 0.9527122558827203,
+      "s_tame": 0.9527122558827203,
+      "V_baseline": 0.56728515625,
+      "V_ley": 0.632421875,
+      "V_tame": 0.637109375,
+      "delta_ley": 0.06513671875000004,
+      "delta_tame": 0.06982421875,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261031,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        5,
+        1
+      ],
+      "support_tame": [
+        5,
+        1
+      ],
+      "s_baseline": 0.7485891716720998,
+      "s_ley": 0.8820921019832094,
+      "s_tame": 0.8820921019832094,
+      "V_baseline": 0.6060546875,
+      "V_ley": 0.62744140625,
+      "V_tame": 0.61806640625,
+      "delta_ley": 0.021386718749999978,
+      "delta_tame": 0.012011718749999956,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": false,
+      "seed": 20261032,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        8,
+        12
+      ],
+      "support_tame": [
+        8,
+        12
+      ],
+      "s_baseline": 0.41609330935616096,
+      "s_ley": 0.9483093018704705,
+      "s_tame": 0.9483093018704705,
+      "V_baseline": 0.5669921875,
+      "V_ley": 0.62890625,
+      "V_tame": 0.63193359375,
+      "delta_ley": 0.06191406249999998,
+      "delta_tame": 0.06494140625,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261033,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        3,
+        9
+      ],
+      "support_tame": [
+        3,
+        9
+      ],
+      "s_baseline": 0.7802904282087099,
+      "s_ley": 0.8478945813054466,
+      "s_tame": 0.8478945813054466,
+      "V_baseline": 0.6107421875,
+      "V_ley": 0.61806640625,
+      "V_tame": 0.6234375,
+      "delta_ley": 0.00732421875,
+      "delta_tame": 0.0126953125,
+      "CAMINO_OK_ley": false,
+      "CAMINO_OK_tame": false,
+      "seed": 20261034,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        5,
+        11
+      ],
+      "support_tame": [
+        5,
+        11
+      ],
+      "s_baseline": 0.7645453308165282,
+      "s_ley": 0.8677198373842294,
+      "s_tame": 0.8677198373842294,
+      "V_baseline": 0.6001953125,
+      "V_ley": 0.62109375,
+      "V_tame": 0.62568359375,
+      "delta_ley": 0.020898437499999978,
+      "delta_tame": 0.025488281250000022,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261035,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        12,
+        2
+      ],
+      "support_tame": [
+        12,
+        2
+      ],
+      "s_baseline": 0.7631649872424611,
+      "s_ley": 0.9466823939714049,
+      "s_tame": 0.9466823939714049,
+      "V_baseline": 0.59365234375,
+      "V_ley": 0.63447265625,
+      "V_tame": 0.6326171875,
+      "delta_ley": 0.04082031250000007,
+      "delta_tame": 0.03896484374999998,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261036,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        5,
+        4
+      ],
+      "support_tame": [
+        5,
+        4
+      ],
+      "s_baseline": 0.36204269087616076,
+      "s_ley": 0.888978345142899,
+      "s_tame": 0.888978345142899,
+      "V_baseline": 0.537890625,
+      "V_ley": 0.62470703125,
+      "V_tame": 0.623828125,
+      "delta_ley": 0.08681640625000009,
+      "delta_tame": 0.0859375,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261037,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        6,
+        13
+      ],
+      "support_tame": [
+        6,
+        13
+      ],
+      "s_baseline": 0.46963367462562844,
+      "s_ley": 0.9274308387443959,
+      "s_tame": 0.9274308387443959,
+      "V_baseline": 0.562890625,
+      "V_ley": 0.62705078125,
+      "V_tame": 0.62578125,
+      "delta_ley": 0.06416015625000004,
+      "delta_tame": 0.06289062499999998,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261038,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        0,
+        9
+      ],
+      "support_tame": [
+        0,
+        9
+      ],
+      "s_baseline": 0.8561591148456067,
+      "s_ley": 0.9385415825885661,
+      "s_tame": 0.9385415825885661,
+      "V_baseline": 0.61689453125,
+      "V_ley": 0.63388671875,
+      "V_tame": 0.62978515625,
+      "delta_ley": 0.016992187499999978,
+      "delta_tame": 0.012890624999999933,
+      "CAMINO_OK_ley": false,
+      "CAMINO_OK_tame": false,
+      "seed": 20261039,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        1,
+        10
+      ],
+      "support_tame": [
+        1,
+        10
+      ],
+      "s_baseline": 0.47156068805031537,
+      "s_ley": 0.9038538069780282,
+      "s_tame": 0.9038538069780282,
+      "V_baseline": 0.55263671875,
+      "V_ley": 0.623828125,
+      "V_tame": 0.6291015625,
+      "delta_ley": 0.07119140624999998,
+      "delta_tame": 0.07646484375000007,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261040,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        1,
+        6
+      ],
+      "support_tame": [
+        1,
+        6
+      ],
+      "s_baseline": 0.5093405597319681,
+      "s_ley": 0.9658400629267292,
+      "s_tame": 0.9658400629267292,
+      "V_baseline": 0.5705078125,
+      "V_ley": 0.64541015625,
+      "V_tame": 0.63798828125,
+      "delta_ley": 0.07490234374999993,
+      "delta_tame": 0.06748046874999991,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261041,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        4,
+        15
+      ],
+      "support_tame": [
+        4,
+        15
+      ],
+      "s_baseline": 0.36555084033829016,
+      "s_ley": 0.9710809584220781,
+      "s_tame": 0.9710809584220781,
+      "V_baseline": 0.5419921875,
+      "V_ley": 0.63701171875,
+      "V_tame": 0.6349609375,
+      "delta_ley": 0.09501953124999996,
+      "delta_tame": 0.09296875000000004,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261042,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        10,
+        9
+      ],
+      "support_tame": [
+        10,
+        9
+      ],
+      "s_baseline": 0.3691487372941602,
+      "s_ley": 0.8667679703023482,
+      "s_tame": 0.8667679703023482,
+      "V_baseline": 0.55224609375,
+      "V_ley": 0.62236328125,
+      "V_tame": 0.6123046875,
+      "delta_ley": 0.07011718749999996,
+      "delta_tame": 0.06005859375,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261043,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        0,
+        2
+      ],
+      "support_tame": [
+        0,
+        2
+      ],
+      "s_baseline": 0.4820342872860495,
+      "s_ley": 0.8524913554747608,
+      "s_tame": 0.8524913554747608,
+      "V_baseline": 0.5625,
+      "V_ley": 0.621484375,
+      "V_tame": 0.61923828125,
+      "delta_ley": 0.05898437499999998,
+      "delta_tame": 0.05673828125000002,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261044,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        13,
+        4
+      ],
+      "support_tame": [
+        13,
+        4
+      ],
+      "s_baseline": 0.4591061777074563,
+      "s_ley": 0.960849329447168,
+      "s_tame": 0.960849329447168,
+      "V_baseline": 0.56650390625,
+      "V_ley": 0.63896484375,
+      "V_tame": 0.64345703125,
+      "delta_ley": 0.07246093749999993,
+      "delta_tame": 0.07695312499999996,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261045,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        1,
+        9
+      ],
+      "support_tame": [
+        1,
+        9
+      ],
+      "s_baseline": 0.7868450393316322,
+      "s_ley": 0.8719583649357241,
+      "s_tame": 0.8719583649357241,
+      "V_baseline": 0.60537109375,
+      "V_ley": 0.62568359375,
+      "V_tame": 0.619140625,
+      "delta_ley": 0.020312500000000067,
+      "delta_tame": 0.013769531250000022,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": false,
+      "seed": 20261046,
+      "shots": 4096
+    },
+    {
+      "support_baseline": [
+        0,
+        1
+      ],
+      "support_ley": [
+        5,
+        4
+      ],
+      "support_tame": [
+        5,
+        4
+      ],
+      "s_baseline": 0.4380882738877995,
+      "s_ley": 0.8873018005477556,
+      "s_tame": 0.8873018005477556,
+      "V_baseline": 0.559765625,
+      "V_ley": 0.61376953125,
+      "V_tame": 0.62421875,
+      "delta_ley": 0.054003906249999956,
+      "delta_tame": 0.064453125,
+      "CAMINO_OK_ley": true,
+      "CAMINO_OK_tame": true,
+      "seed": 20261047,
+      "shots": 4096
+    }
+  ],
+  "mean_delta_ley": 0.05495312499999999,
+  "mean_delta_tame": 0.05428124999999999,
+  "frac_ok_ley": 0.88,
+  "frac_ok_tame": 0.8
+}

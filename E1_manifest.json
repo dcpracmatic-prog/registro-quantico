@@ -1,0 +1,29 @@
+{
+  "experiment": "E1_ley_estabilizacion",
+  "lambda_ley": 0.28,
+  "s_atractor_ref": 0.72,
+  "criteria": {
+    "R_sostiene": 1.5,
+    "R_falla": 1.0,
+    "lam_hat_window": [
+      0.15,
+      0.45
+    ]
+  },
+  "mode": "hardware",
+  "backend": "ibm_kingston",
+  "shots": 4096,
+  "seed": 20261022,
+  "mu_grid": [
+    0.1,
+    0.2,
+    0.30000000000000004,
+    0.4,
+    0.5,
+    0.6,
+    0.7000000000000001,
+    0.8,
+    0.9
+  ],
+  "note": "Prediccion fija de la ley; veredicto SOSTIENE/FALLA. No optimizador generico."
+}
