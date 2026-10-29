@@ -558,7 +558,7 @@ https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilatio
 
 **Repositorio de Documentación**
 
-https://github.com/dcpracmatic-prog/registro-quantico/tree/main/verifiable_quantum_circuit_compilation/verification
+https://github.com/dcpracmatic-prog/registro-quantico/tree/main/verifiable_quantum_circuit_compilation/verificable.pdf
 
 **Fuente**
 
