@@ -1,0 +1,32 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Verifiable Quantum Circuit Compilation\\n",
+        "Baseline notebook for the inverse square roots benchmark."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "# 01 · Reproducible setup\nimport numpy as np\nfrom kickmix import Circuit, verifier\n\n# 02 · Benchmark configuration\nBENCHMARK = \"invsqrt\"\nSEED = 20261021\n\n# 03 · Candidate circuit\ndef build_candidate(x_bits: int = 14) -> Circuit:\n    circuit = Circuit()\n    circuit.prepare_basis_state(x_bits)\n    circuit.apply_polynomial_phasing(\n        coefficients=[0.9999413, -0.4960989, 0.3326111, -0.1487676],\n        domain=(1.0, 2.0),\n    )\n    circuit.uncompute_workspace()\n    return circuit\n\n# 04 · Verify before submission\ncandidate = build_candidate()\nreport = verifier.check(candidate, seed=SEED)\nprint(report.score, report.passed)\\n"
+      ]
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "competition": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
+    "source": "https://github.com/dcpracmatic-prog/registro-quantico/tree/main/verifiable_quantum_circuit_compilation"
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
